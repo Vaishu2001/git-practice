@@ -1,4 +1,10 @@
 This is a sample 2 file
 Jessi editing file2
 No conflicts
+
+
+
+First line 
 second modified line
+Third line
+
