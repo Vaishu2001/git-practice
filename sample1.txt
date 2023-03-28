@@ -1,4 +1,6 @@
 This is sample 1 files
 This is second line
+
 Modifying master
-Again 
+ 
+
