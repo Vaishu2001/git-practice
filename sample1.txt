@@ -1,6 +1,4 @@
-This is sample 1 files
-This is second line
 
-Modifying master
- 
+This is sample 1 file
+Neha's change into master
 
